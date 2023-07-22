@@ -1,0 +1,6 @@
+Hi, I am Mr Mann.
+I working in IT Deparment.
+I had several variables , which are :
+String address = "Kuala Lumpur, Malaysia";
+Integer age = 25;
+String hobby = "Coding";
